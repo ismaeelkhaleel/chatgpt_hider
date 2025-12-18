@@ -83,8 +83,8 @@ Now the extension icon will always be visible.
  → text is **hidden by default**
 3. Click the **extension icon**
 4. Popup appears with a button:
- - **Prompt Hide** → click to make text visible
- - **Prompt Show** → click to hide text again
+ - **Close Eye** → click to make text visible
+ - **Open Eye** → click to hide text again
 5. Toggle anytime
 
 ---
