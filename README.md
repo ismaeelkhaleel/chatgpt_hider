@@ -78,20 +78,20 @@ Now the extension icon will always be visible.
 
 ## How to Use
 
-1. Open **https://chat.openai.com**
+1. Open **Open ChatGPT**
 2. Start typing in the input box  
  → text is **hidden by default**
 3. Click the **extension icon**
 4. Popup appears with a button:
- - **Input Hidden** → click to make text visible
- - **Input Visible** → click to hide text again
+ - **Prompt Hide** → click to make text visible
+ - **Prompt Show** → click to hide text again
 5. Toggle anytime
 
 ---
 
 ## Default Behavior
 
-- First load → **Input Hidden**
+- First load → **Prompt Hide**
 - Popup button always reflects current state
 - Input box never disappears
 - Only typed characters are masked/unmasked
